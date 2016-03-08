@@ -2,7 +2,7 @@
     "templates": [
         {
             "title": "Team Site",
-            "description": "Ut fusce varius nisl ac ipsum gravida vel pretium tellus tincidunt integer eu augue augue nunc elit dolor, luctus placerat",
+            "description": "Uts fusce varius nisl ac ipsum gravida vel pretium tellus tincidunt integer eu augue augue nunc elit dolor, luctus placerat",
             "imageUrl": "../images/template-icon.png",
             "managedPath": "/sites/",
             "displayOrder": 2
